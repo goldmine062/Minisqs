@@ -1,0 +1,9 @@
+out/
+target/
+data/
+crash-data/
+*.jar
+acked.txt
+*.log
+.idea/
+*.iml
